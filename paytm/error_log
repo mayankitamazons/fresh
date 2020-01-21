@@ -1,0 +1,130 @@
+[15-Feb-2019 05:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('e938b9346d7d74a...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 05:55:06 UTC] PHP Notice:  Undefined variable: orderid in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 18
+[15-Feb-2019 05:55:06 UTC] PHP Notice:  Undefined variable: amount in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 21
+[15-Feb-2019 05:55:06 UTC] PHP Notice:  Undefined variable: email in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 24
+[15-Feb-2019 05:55:06 UTC] PHP Notice:  Undefined variable: mobile in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 25
+[15-Feb-2019 05:55:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('a41e2ace8a534bf...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php(42): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('35630038db73e56...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('7e7f6f759f03e41...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('7662d0e07397b9d...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:06 UTC] PHP Notice:  Undefined variable: orderid in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 18
+[15-Feb-2019 06:11:06 UTC] PHP Notice:  Undefined variable: amount in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 21
+[15-Feb-2019 06:11:06 UTC] PHP Notice:  Undefined variable: email in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 24
+[15-Feb-2019 06:11:06 UTC] PHP Notice:  Undefined variable: mobile in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 25
+[15-Feb-2019 06:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('248df24ac7904a3...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php(42): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('00b6c446ff930e6...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('5aa4c56371617b9...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('2c05e5329688348...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:11 UTC] PHP Notice:  Undefined variable: orderid in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 18
+[15-Feb-2019 06:11:13 UTC] PHP Notice:  Undefined variable: amount in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 21
+[15-Feb-2019 06:11:13 UTC] PHP Notice:  Undefined variable: email in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 24
+[15-Feb-2019 06:11:13 UTC] PHP Notice:  Undefined variable: mobile in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 25
+[15-Feb-2019 06:11:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('2b94319b60db5b1...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php(42): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('f0b2947ff6fd800...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:40 UTC] PHP Notice:  Undefined variable: orderid in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 18
+[15-Feb-2019 06:11:40 UTC] PHP Notice:  Undefined variable: amount in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 21
+[15-Feb-2019 06:11:40 UTC] PHP Notice:  Undefined variable: email in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 24
+[15-Feb-2019 06:11:40 UTC] PHP Notice:  Undefined variable: mobile in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 25
+[15-Feb-2019 06:11:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('5a20e6ef9420571...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php(42): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('2569b3de943a971...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:11:43 UTC] PHP Notice:  Undefined variable: orderid in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 18
+[15-Feb-2019 06:11:43 UTC] PHP Notice:  Undefined variable: amount in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 21
+[15-Feb-2019 06:11:43 UTC] PHP Notice:  Undefined variable: email in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 24
+[15-Feb-2019 06:11:43 UTC] PHP Notice:  Undefined variable: mobile in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 25
+[15-Feb-2019 06:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('2c02dbb430bafad...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php(42): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:13:36 UTC] PHP Notice:  Undefined variable: orderid in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 18
+[15-Feb-2019 06:13:36 UTC] PHP Notice:  Undefined variable: amount in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 21
+[15-Feb-2019 06:13:36 UTC] PHP Notice:  Undefined variable: email in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 24
+[15-Feb-2019 06:13:36 UTC] PHP Notice:  Undefined variable: mobile in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 25
+[15-Feb-2019 06:13:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('57382774edbae5f...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php(42): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('2efd6e302a9cd25...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksumPost.php(32): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
+[15-Feb-2019 06:15:05 UTC] PHP Notice:  Undefined variable: orderid in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 18
+[15-Feb-2019 06:15:05 UTC] PHP Notice:  Undefined variable: amount in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 21
+[15-Feb-2019 06:15:05 UTC] PHP Notice:  Undefined variable: email in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 24
+[15-Feb-2019 06:15:05 UTC] PHP Notice:  Undefined variable: mobile in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php on line 25
+[15-Feb-2019 06:15:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_get_block_size() in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php:5
+Stack trace:
+#0 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php(74): encrypt_e('2001f4db8fd8ab5...', '&rdeq7C4d5t%nKH...')
+#1 /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/generateChecksum.php(42): getChecksumFromArray(Array, '&rdeq7C4d5t%nKH...')
+#2 {main}
+  thrown in /home/u602795421/domains/thecodecafe.in/public_html/gogrocer/paytm/lib/encdec_paytm.php on line 5
